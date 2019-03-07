@@ -1,7 +1,6 @@
-# Prezidenti
+# Filmy
 ## Projekt v JQuery
-* Prezidenti v Ústavě ČR
-* Portréty prezidentů
-* Sídla prezidentů
-Projekt IT2
-Vytvořeno v únoru 2019
+* Zajímavosti o filmech
+* Kvíz s filmovou tématikou
+Projekt Jana Spišky
+Vytvořeno v břreznu 2019
